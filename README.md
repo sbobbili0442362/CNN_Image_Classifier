@@ -91,7 +91,7 @@ The trained CNN achieved excellent performance in identifying whether an image i
 ## 6. Medium Post
 
 You can read more about the project on Medium, where I explain the entire process, from data preparation to results:  
-[Read the Full Project on Medium](<insert your Medium post link here>)
+[Read the Full Project on Medium](<https://medium.com/@sbobbili_40576/building-a-cnn-image-classifier-predicting-cats-and-dogs-901c0a14230e>)
 
 ---
 
